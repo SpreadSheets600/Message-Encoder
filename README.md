@@ -2,11 +2,9 @@
 
 This Code Endodes Normal Text Into Code Language Created By Me And My Friends.
 
--
 
 This Is The Code Symbols :
 
--
 
 ![image](https://user-images.githubusercontent.com/89208925/194827968-967dac33-fd16-4a92-abc4-104195ccdf56.png)
 
@@ -36,5 +34,3 @@ For A It's `01`, To Make It `09` The Code Must Be :
 
 ``` 'A': '09'``` Instead Of ``'A': '01'``, Like Wise Change For Every Letter And Number
 
-
-### **PS : I Will Make A Decoder Soon**
